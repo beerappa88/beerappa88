@@ -79,7 +79,6 @@ Passionate about **clean architecture**, **test-driven development**, and **perf
 ![Beerappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerappa88&show_icons=true&theme=default&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerappa88&layout=compact&theme=default&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=beerappa88&theme=default&hide_border=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beerappa88&theme=flat&no-bg=true&no-frame=true&margin-w=10)
 </div>
 
 ---
