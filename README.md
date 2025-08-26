@@ -74,11 +74,20 @@ Passionate about **clean architecture**, **test-driven development**, and **perf
 
 ---
 
-## 📊 GitHub Stats & Contributions
-![Beerappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerappametre&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerappametre&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beerappametre&theme=default)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beerappametre&theme=flat&no-frame=true&margin-w=10)  
+## 📊 GitHub Stats & Contributions  
+
+<div align="center">
+
+![Beerappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerappa88&show_icons=true&theme=default&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerappa88&layout=compact&theme=default&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beerappa88&theme=default&hide_border=true)  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beerappa88&theme=flat&no-frame=true&margin-w=10)
+
+</div>
+
 
 ---
 
