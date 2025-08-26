@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Beerappa Methre  
 
 ### **Software Engineer | Backend Developer | API & Data Engineering Enthusiast**  
-Bidar, Karnataka • [Portfolio](https://portfolio-8cqz.onrender.com/) • [LinkedIn](https://www.linkedin.com/in/beerappa/) • [GitHub](https://github.com/beerappametre)  
+Bidar, Karnataka • [Portfolio](https://portfolio-8cqz.onrender.com/) • [LinkedIn](https://www.linkedin.com/in/beerappa/) • [GitHub](https://github.com/beerappa88)  
 
 ---
 
@@ -76,9 +76,9 @@ Passionate about **clean architecture**, **test-driven development**, and **perf
 
 ## 📊 GitHub Stats & Contributions  
 <div align="center">
-![Beerappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerappa88&show_icons=true&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerappa88&layout=compact&theme=default&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=beerappa88&theme=default&hide_border=true)  
+  <img src="https://github-readme-stats.vercel.app/api?username=beerappa88&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerappa88&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=beerappa88&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -100,9 +100,9 @@ Passionate about **clean architecture**, **test-driven development**, and **perf
 ---
 
 ## 🔗 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/beerappa88/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/beerappametre05/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/beerappa88)
 
 ---
 
